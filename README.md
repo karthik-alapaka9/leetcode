@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/karthik-alapaka9/leetcode/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/karthik-alapaka9/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0976-largest-perimeter-triangle](https://github.com/karthik-alapaka9/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1025-divisor-game](https://github.com/karthik-alapaka9/leetcode/tree/master/1025-divisor-game) |
 ## Sorting
 |  |
 | ------- |
@@ -44,4 +45,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/karthik-alapaka9/leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/karthik-alapaka9/leetcode/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/karthik-alapaka9/leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/karthik-alapaka9/leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/karthik-alapaka9/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
