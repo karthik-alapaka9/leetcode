@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/karthik-alapaka9/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0976-largest-perimeter-triangle](https://github.com/karthik-alapaka9/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/karthik-alapaka9/leetcode/tree/master/1025-divisor-game) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/karthik-alapaka9/leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/karthik-alapaka9/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/karthik-alapaka9/leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Quicksort
 |  |
 | ------- |
