@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0179-largest-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthik-alapaka9/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/karthik-alapaka9/leetcode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/karthik-alapaka9/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0179-largest-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthik-alapaka9/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/karthik-alapaka9/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Geometry
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0179-largest-number) |
 | [0976-largest-perimeter-triangle](https://github.com/karthik-alapaka9/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/karthik-alapaka9/leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Quicksort
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3959-check-good-integer](https://github.com/karthik-alapaka9/leetcode/tree/master/3959-check-good-integer) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
