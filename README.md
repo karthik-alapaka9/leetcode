@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/karthik-alapaka9/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/karthik-alapaka9/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0976-largest-perimeter-triangle](https://github.com/karthik-alapaka9/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [3731-find-missing-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/karthik-alapaka9/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthik-alapaka9/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/karthik-alapaka9/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [3731-find-missing-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3731-find-missing-elements) |
 ## Geometry
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/karthik-alapaka9/leetcode/tree/master/0561-array-partition) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
