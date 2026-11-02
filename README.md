@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/karthik-alapaka9/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/karthik-alapaka9/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthik-alapaka9/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/karthik-alapaka9/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/karthik-alapaka9/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthik-alapaka9/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -109,4 +111,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/karthik-alapaka9/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/karthik-alapaka9/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/karthik-alapaka9/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/karthik-alapaka9/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/karthik-alapaka9/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
