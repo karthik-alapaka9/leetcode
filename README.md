@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/karthik-alapaka9/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/karthik-alapaka9/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [3731-find-missing-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3731-find-missing-elements) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/karthik-alapaka9/leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/karthik-alapaka9/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Math
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/karthik-alapaka9/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/karthik-alapaka9/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [3731-find-missing-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3731-find-missing-elements) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/karthik-alapaka9/leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/karthik-alapaka9/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Geometry
 |  |
@@ -145,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/karthik-alapaka9/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Binary Search
+|  |
+| ------- |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/karthik-alapaka9/leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
+## Enumeration
+|  |
+| ------- |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/karthik-alapaka9/leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 <!---LeetCode Topics End-->
