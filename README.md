@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/karthik-alapaka9/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/karthik-alapaka9/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/karthik-alapaka9/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [3467-transform-array-by-parity](https://github.com/karthik-alapaka9/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/karthik-alapaka9/leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/karthik-alapaka9/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/karthik-alapaka9/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/karthik-alapaka9/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [3467-transform-array-by-parity](https://github.com/karthik-alapaka9/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/karthik-alapaka9/leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/karthik-alapaka9/leetcode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/karthik-alapaka9/leetcode/tree/master/0561-array-partition) |
+| [3467-transform-array-by-parity](https://github.com/karthik-alapaka9/leetcode/tree/master/3467-transform-array-by-parity) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/karthik-alapaka9/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
