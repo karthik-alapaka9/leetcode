@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/karthik-alapaka9/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/karthik-alapaka9/leetcode/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthik-alapaka9/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/karthik-alapaka9/leetcode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/karthik-alapaka9/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/karthik-alapaka9/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/karthik-alapaka9/leetcode/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthik-alapaka9/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/karthik-alapaka9/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/karthik-alapaka9/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/karthik-alapaka9/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0561-array-partition](https://github.com/karthik-alapaka9/leetcode/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0611-valid-triangle-number) |
 | [0976-largest-perimeter-triangle](https://github.com/karthik-alapaka9/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [3745-maximize-expression-of-three-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/karthik-alapaka9/leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0611-valid-triangle-number) |
 | [0905-sort-array-by-parity](https://github.com/karthik-alapaka9/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/karthik-alapaka9/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/karthik-alapaka9/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0611-valid-triangle-number) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/karthik-alapaka9/leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Enumeration
 |  |
