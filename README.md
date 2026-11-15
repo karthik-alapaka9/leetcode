@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karthik-alapaka9/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/karthik-alapaka9/leetcode/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/karthik-alapaka9/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0274-h-index](https://github.com/karthik-alapaka9/leetcode/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/karthik-alapaka9/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0368-largest-divisible-subset](https://github.com/karthik-alapaka9/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karthik-alapaka9/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/karthik-alapaka9/leetcode/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/karthik-alapaka9/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0274-h-index](https://github.com/karthik-alapaka9/leetcode/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/karthik-alapaka9/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0368-largest-divisible-subset](https://github.com/karthik-alapaka9/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/karthik-alapaka9/leetcode/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/karthik-alapaka9/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/karthik-alapaka9/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Binary Search
 |  |
@@ -196,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/karthik-alapaka9/leetcode/tree/master/0218-the-skyline-problem) |
+## Sliding Window
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/karthik-alapaka9/leetcode/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/karthik-alapaka9/leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
