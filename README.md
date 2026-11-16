@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/karthik-alapaka9/leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karthik-alapaka9/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/karthik-alapaka9/leetcode/tree/master/0218-the-skyline-problem) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/karthik-alapaka9/leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karthik-alapaka9/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/karthik-alapaka9/leetcode/tree/master/0218-the-skyline-problem) |
@@ -206,5 +208,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/karthik-alapaka9/leetcode/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/karthik-alapaka9/leetcode/tree/master/0220-contains-duplicate-iii) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/karthik-alapaka9/leetcode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/karthik-alapaka9/leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
