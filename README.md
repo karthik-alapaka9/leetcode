@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/karthik-alapaka9/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3842-toggle-light-bulbs](https://github.com/karthik-alapaka9/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/karthik-alapaka9/leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/karthik-alapaka9/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Math
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/karthik-alapaka9/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3842-toggle-light-bulbs](https://github.com/karthik-alapaka9/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/karthik-alapaka9/leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/karthik-alapaka9/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Geometry
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3842-toggle-light-bulbs](https://github.com/karthik-alapaka9/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3959-check-good-integer](https://github.com/karthik-alapaka9/leetcode/tree/master/3959-check-good-integer) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/karthik-alapaka9/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/karthik-alapaka9/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/karthik-alapaka9/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
