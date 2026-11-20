@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/karthik-alapaka9/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthik-alapaka9/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/karthik-alapaka9/leetcode/tree/master/3467-transform-array-by-parity) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/karthik-alapaka9/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthik-alapaka9/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/karthik-alapaka9/leetcode/tree/master/3467-transform-array-by-parity) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0611-valid-triangle-number) |
 | [0976-largest-perimeter-triangle](https://github.com/karthik-alapaka9/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/karthik-alapaka9/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/karthik-alapaka9/leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Quicksort
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/karthik-alapaka9/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/karthik-alapaka9/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
