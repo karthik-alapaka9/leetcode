@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/karthik-alapaka9/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/karthik-alapaka9/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthik-alapaka9/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/karthik-alapaka9/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3731-find-missing-elements) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/karthik-alapaka9/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/karthik-alapaka9/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthik-alapaka9/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/karthik-alapaka9/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3731-find-missing-elements) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/karthik-alapaka9/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/karthik-alapaka9/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/karthik-alapaka9/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
