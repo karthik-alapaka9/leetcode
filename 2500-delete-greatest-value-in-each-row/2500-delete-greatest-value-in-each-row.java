@@ -10,10 +10,7 @@ class Solution {
         for(int j=n-1; j>=0; j--){
             int max=0;
             for(int i=0; i<m; i++){
-                if(grid[i][j]>max){
-                    max=grid[i][j];
-
-                }
+                max=Math.max(max,grid[i][j]);
             }
             sum+=max;
         }
