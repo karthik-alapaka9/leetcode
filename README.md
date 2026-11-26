@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/karthik-alapaka9/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0368-largest-divisible-subset](https://github.com/karthik-alapaka9/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/karthik-alapaka9/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/karthik-alapaka9/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/karthik-alapaka9/leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0611-valid-triangle-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/karthik-alapaka9/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0368-largest-divisible-subset](https://github.com/karthik-alapaka9/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/karthik-alapaka9/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/karthik-alapaka9/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/karthik-alapaka9/leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/karthik-alapaka9/leetcode/tree/master/0611-valid-triangle-number) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/karthik-alapaka9/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/karthik-alapaka9/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3731-find-missing-elements) |
