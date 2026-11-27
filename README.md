@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/karthik-alapaka9/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0976-largest-perimeter-triangle](https://github.com/karthik-alapaka9/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/karthik-alapaka9/leetcode/tree/master/1025-divisor-game) |
+| [2578-split-with-minimum-sum](https://github.com/karthik-alapaka9/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [3959-check-good-integer](https://github.com/karthik-alapaka9/leetcode/tree/master/3959-check-good-integer) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/karthik-alapaka9/leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Sorting
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/karthik-alapaka9/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthik-alapaka9/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/karthik-alapaka9/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2578-split-with-minimum-sum](https://github.com/karthik-alapaka9/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2784-check-if-array-is-good](https://github.com/karthik-alapaka9/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/karthik-alapaka9/leetcode/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/karthik-alapaka9/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0976-largest-perimeter-triangle](https://github.com/karthik-alapaka9/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/karthik-alapaka9/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [2578-split-with-minimum-sum](https://github.com/karthik-alapaka9/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/karthik-alapaka9/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/karthik-alapaka9/leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
