@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/karthik-alapaka9/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/karthik-alapaka9/leetcode/tree/master/1025-divisor-game) |
 | [2578-split-with-minimum-sum](https://github.com/karthik-alapaka9/leetcode/tree/master/2578-split-with-minimum-sum) |
+| [3516-find-closest-person](https://github.com/karthik-alapaka9/leetcode/tree/master/3516-find-closest-person) |
 | [3959-check-good-integer](https://github.com/karthik-alapaka9/leetcode/tree/master/3959-check-good-integer) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/karthik-alapaka9/leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Sorting
